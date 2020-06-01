@@ -3,3 +3,4 @@ pandas==0.24.2
 gunicorn
 xgboost==0.90
 sklearn
+lightgbm
